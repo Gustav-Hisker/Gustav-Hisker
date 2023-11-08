@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gustav-Hisker unfortunately based in Germany. 
+- 👀 I’m interested in sience, programming and maths.
+- 🌱 I’m currently learning C++.
