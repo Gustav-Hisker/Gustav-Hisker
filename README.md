@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Gustav-Hisker unfortunately based in Germany. 
-- 👀 I’m interested in science, programming and maths.
-- 🌱 I’m currently building my own computer.
+- 👋 Hi, I’m @Gustav-Hisker.
+- I'm currently studying physics at ETH Zurich.
+- I won't add more information cause I'm pretty sure I'll forget to update this file. This version should be valid for about 5 years. 
